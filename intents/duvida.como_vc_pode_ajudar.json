@@ -1,0 +1,34 @@
+{
+  "id": "bc3e6e45-15fb-40d7-82a0-3246aaeea5b5",
+  "name": "duvida.como_vc_pode_ajudar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Posso te ajudar a descobrir o molho perfeito para o seu nhoque",
+            "Eu conheço muito de molhos e posso te sugerir o melhor molho para o nhoque de sua preferência"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

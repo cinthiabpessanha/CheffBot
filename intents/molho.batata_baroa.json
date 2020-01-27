@@ -1,0 +1,47 @@
+{
+  "id": "460be386-b4af-4c09-87f5-1d50a742cc1e",
+  "name": "molho.batata_baroa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "037f1a7b-a046-4e0a-b796-bfa1aeecd43b",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "A batata baroa é muito saborosa! Tenho diversas sugestões, mas hoje te indico que faça um molho branco e alho poró, servido com camarões.",
+            "Batata baroa vai muito bem com molho de tomate. Hummm...."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

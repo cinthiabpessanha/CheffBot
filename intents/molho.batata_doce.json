@@ -1,0 +1,47 @@
+{
+  "id": "53eaee4a-9070-4e94-b366-9241b3eebbe1",
+  "name": "molho.batata_doce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73ee99f5-7c46-4174-9e97-f9c0efca3c0c",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Batata doce é a queridinha das dietas! Faça um molho de tomate caseiro com manjericão e coma sem culpa ;)",
+            "O suave sabor da batata doce harmoniza bem com um molho de tomate ao sugo. Finalize com lascas grossas de queijo grana padano para dar um toque rústico ao prato."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

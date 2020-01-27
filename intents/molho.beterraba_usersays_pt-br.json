@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c506539e-3858-4bf9-85b0-eebc29267d56",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de beterraba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf3bb498-66f9-42c9-9669-05af4c836708",
+    "data": [
+      {
+        "text": "Molho para beterraba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a8b5fb3-5537-4987-8247-493f6f237673",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de beterraba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61d6bbee-f74a-487c-8181-d70639a03c57",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de beterraba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af3afc05-a540-4fa1-b19c-ff18a264beef",
+    "data": [
+      {
+        "text": "Nhoque de beterraba combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ec41230-8936-4b87-8c8d-521a4b2be69e",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de beterraba?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

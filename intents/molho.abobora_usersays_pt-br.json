@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1b8ad626-a2f0-49a0-a1c7-75712c26b2c0",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de abóbora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49c354a7-4c95-4b79-9476-51edde3d4ab6",
+    "data": [
+      {
+        "text": "Molho para nhoque de abóbora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46228564-0eef-42f5-9398-ddb77beecaef",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de abóbora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b1d5695-96fa-4099-bc1b-7dfa5ff08213",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de abóbora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fb0d5db-3004-4138-a495-1f277539f007",
+    "data": [
+      {
+        "text": "Nhoque de abóbora combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d16a7810-cef2-432b-8958-067dd35b264d",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de abóbora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

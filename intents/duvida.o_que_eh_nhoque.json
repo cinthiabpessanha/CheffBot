@@ -1,0 +1,31 @@
+{
+  "id": "32eef669-4e98-4b31-9638-b8ca46f24ac7",
+  "name": "duvida.o_que_eh_nhoque",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "O nhoque ou inhoque, também conhecidos no termo do italiano gnocco, plural gnocchi, é uma massa alimentícia preparada a base da mistura de batata ou macaxeira com farinha de trigo, sendo um prato típico da culinária da Itália, que pode ser servido com diversos tipos de molhos"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

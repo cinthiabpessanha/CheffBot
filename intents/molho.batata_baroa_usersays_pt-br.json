@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f8f698d0-8360-4cb2-a78f-3d22bda0e2a4",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata baroa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "507daf35-64f9-4286-8779-151422629d9b",
+    "data": [
+      {
+        "text": "Molho para batata baroa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9df6dc99-a32a-49f8-ba6c-b7f0466c1e29",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de batata baroa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c117375a-35a9-4090-8c33-c6e16b9497a7",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de batata baroa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b45b4d0-ab6c-4ded-963a-066c32549918",
+    "data": [
+      {
+        "text": "Nhoque de batata baroa combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f66a1be6-4f3b-4021-ad35-e256af1963f6",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata baroa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "6f845f52-f12c-4840-848a-c7aad92c12e1",
+  "name": "molho.manjericao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6719690-7fff-4606-bb10-c57530e587e0",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Que tal uma releitura de uma marguerita? Faça um molho de tomate que certamente você irá arrasar!",
+            "Eu faria um molho de tomate :)",
+            "Tomate e manjericão, uma dupla perfeita",
+            "Vai de tomate que não tem erro"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

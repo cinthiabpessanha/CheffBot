@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2a92b4f7-247a-4822-bd9b-8431b95ecac8",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata doce?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b635059f-27c6-45ea-9b25-b168760897a2",
+    "data": [
+      {
+        "text": "Molho para batata doce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe1f060-1e4a-451a-a1e1-2b9280b37bd8",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de batata doce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb521fb0-d822-45a2-aeb9-1c3b35f3f886",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de batata doce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f53a0f6-de61-4f62-8350-18054ab6e0c3",
+    "data": [
+      {
+        "text": "Nhoque de batata doce combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b1c5638-3ef6-4b4d-b97c-fd30ec0923fa",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata doce?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

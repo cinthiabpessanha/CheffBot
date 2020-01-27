@@ -1,0 +1,92 @@
+[
+  {
+    "id": "43a09f8d-841c-4b44-84ca-2fad35ff4172",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de aipim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b610cb7-f869-49f7-8c17-1e2b6a52fd53",
+    "data": [
+      {
+        "text": "Molho para aipim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9443e340-2175-4f14-9fab-b1f1116641f2",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de aipim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f782193b-3cc8-4b9a-8999-67853ac0456a",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de aipim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76b26ccc-5198-4e6f-b265-10d0f17b0d6d",
+    "data": [
+      {
+        "text": "Nhoque de aipim combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6d4ff72-7289-47f1-b7d2-86bdd6699ae5",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de aipim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

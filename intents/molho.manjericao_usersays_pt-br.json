@@ -1,0 +1,128 @@
+[
+  {
+    "id": "85556268-efa7-4a99-be7b-68baeb2b493a",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de manjericao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94bfb30c-ee91-4899-a439-e61a116c6637",
+    "data": [
+      {
+        "text": "Molho nhoque manjericão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12eaa581-72d7-4caf-a01c-e4f29bf59b7f",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de manjericão?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60266b38-9af5-4d96-b2da-1b0f251ceb18",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de manjericao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0d57a2a-7634-4b52-8e20-7bfc46ed5a5a",
+    "data": [
+      {
+        "text": "Nhoque de manjericão combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8fe0975-4145-496a-a4e2-ea3baf765adc",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de manjericão?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "331b1d74-6a63-45e0-8c3a-39cce24be565",
+    "data": [
+      {
+        "text": "Nhoque de manjericao combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d29c57f0-f692-4da4-bc3b-6926c237de8a",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de manjericao?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

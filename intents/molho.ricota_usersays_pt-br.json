@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2695f097-f430-4cba-bccc-477f471f6d8d",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de ricota?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aafa70cb-cede-45a5-b381-61055bef7cf5",
+    "data": [
+      {
+        "text": "Molho para ricota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94e8b48e-2773-4db1-a7cb-1c59ef3d70f5",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de ricota?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eda8ba1f-5a0b-41d1-acad-6e7d709644f4",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de ricota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79a5f611-0063-4655-88df-2091d6f3f369",
+    "data": [
+      {
+        "text": "Nhoque de ricota combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80bcd152-503b-4db6-aeb2-4d786e6aeecd",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de ricota?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

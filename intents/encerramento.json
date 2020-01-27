@@ -1,0 +1,37 @@
+{
+  "id": "8ae7c99a-86b9-4b5e-b69f-634482344fc3",
+  "name": "encerramento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Até mais",
+            "Até a próxima",
+            "Foi um prazer conversar com você, até logo",
+            "Tchau, espero ter ajudado",
+            "Espero que vc tenha uma bela refeição com nhoque! Até mais"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

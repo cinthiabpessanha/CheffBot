@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c74a9d67-1256-4282-a5e3-ab57e85ecbee",
+    "data": [
+      {
+        "text": "recomendação de nhoque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2336f5a-23ac-4fdd-b02e-c245c20331fd",
+    "data": [
+      {
+        "text": "quais nhoques voce sugere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67a15f85-b2e9-42dd-a6d9-060d70f31616",
+    "data": [
+      {
+        "text": "qual nhoque vc sugere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f854054d-97fa-4303-a4d9-b96fa984fca1",
+    "data": [
+      {
+        "text": "quais sao os melhores nhoques",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d39eeb9d-d2e6-4e2a-917b-4850e6bd04bd",
+    "data": [
+      {
+        "text": "qual é o melhor nhoque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72b77d90-58a6-4f37-8a46-b0863ad04e5c",
+    "data": [
+      {
+        "text": "qual nhoque vc recomenda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

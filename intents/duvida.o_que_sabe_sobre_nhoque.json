@@ -1,0 +1,35 @@
+{
+  "id": "3a92cbd9-d2b4-4e2c-82e1-8c4688e5fde6",
+  "name": "duvida.o_que_sabe_sobre_nhoque",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Minha especialidade é te recomendar o tipo de molho que vai ficar perfeito com o nhoque que vc tem em sua casa",
+            "Sou especialista em recomendar molho para diferentes tipos de nhoque",
+            "Atualmente os sabores de nhoque vão muito além da tradicional massa feita com batata inglesa. E para cada tipo de nhoque, existe um molho que vai dar MATCH. E aí que eu entro! Eu sei exatamente qual molho vai dar MATCH com seu nhoque"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

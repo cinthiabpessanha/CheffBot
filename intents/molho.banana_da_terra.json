@@ -1,0 +1,50 @@
+{
+  "id": "278cd869-e058-42a8-9cbd-b6414ee71b38",
+  "name": "molho.banana_da_terra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d75167ec-9b22-44c8-b7c5-b8eaf9001205",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Nhoque de banana da terra harmoniza bem com queijo brie",
+            "Um molho de queijo brie fica ótimo com nhoque de banana da terra",
+            "Eu escolheria molho de queijo brie",
+            "Sem dúvida, um molho de queijo brie harmoniza muito bem com banana da terra",
+            "Se quiser ir no caminho seguro, queijo brie. Se quiser arrojar, faz um molho de tomate com leite de côco, como se fosse uma releitura de uma de moqueca. Vai dar bom!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "e788a143-803b-4069-b358-52819e69e04c",
+  "name": "molho.beterraba",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "79526a28-318a-4e8c-9259-d1e28edf3c1a",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Beterraba é polêmica, pois não agrada a todos. Mas com um molho de 4 queijos, até os haters da beterraba vão sucumbir",
+            "Acho que um molho branco vai harmonizar muito bem com o leve adocicado da beterraba. Não esqueça de uma pitada de noz moscada no molho branco, fará toda a diferença :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

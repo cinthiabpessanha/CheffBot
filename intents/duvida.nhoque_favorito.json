@@ -1,0 +1,36 @@
+{
+  "id": "9478fb1c-9f12-4ecf-b439-604add24711f",
+  "name": "duvida.nhoque_favorito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Meu preferido é o nhoque de ricota",
+            "Gosto muito de nhoque de banana da terra, mas meu preferido é o de ricota",
+            "Sem dúvida, o de ricota",
+            "Meu queridinho é o de ricota"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

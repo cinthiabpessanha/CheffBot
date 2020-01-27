@@ -1,0 +1,48 @@
+{
+  "id": "dc7b999f-5fc6-421f-8722-b6d3c73adb7a",
+  "name": "molho.aipim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "efee93bf-9a86-4dcc-bbb1-6e1f6a3cd932",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Aipim, o queridinho do nordeste! Que tal um molho de tomate acompanhado de uma carne de sol? Ôxente!",
+            "Que tal um molho a bolonhesa? Afinal, aipim sempre vai bem com carne vermelha",
+            "Eu iria de camarão! Faz um molho de tomate com camarões, finalizado com lascas grossas de parmesão."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

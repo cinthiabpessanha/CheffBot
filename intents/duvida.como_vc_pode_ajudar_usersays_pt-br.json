@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d70707ab-285a-4d3c-a4bd-1e83ee5dca7f",
+    "data": [
+      {
+        "text": "que tipo de dica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ddd5207-cd2d-410e-be9e-fe00f0e6e99e",
+    "data": [
+      {
+        "text": "como você pode me ajudar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94399644-4e48-4c83-b4da-c024bce5d02c",
+    "data": [
+      {
+        "text": "como voce pode me ajudar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdce0049-db55-4829-b32f-a82f938416ed",
+    "data": [
+      {
+        "text": "que tipo de ajuda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b7b0c7-2ef9-421e-b484-c2294682d673",
+    "data": [
+      {
+        "text": "como vc pode me ajudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

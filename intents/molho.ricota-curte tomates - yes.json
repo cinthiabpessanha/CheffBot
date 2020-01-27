@@ -1,0 +1,36 @@
+{
+  "id": "29cc3810-4e26-468d-addd-198c2d55c524",
+  "parentId": "850977ee-e5ac-4901-a4fd-22322b3cb1ff",
+  "rootParentId": "850977ee-e5ac-4901-a4fd-22322b3cb1ff",
+  "name": "molho.ricota-curte tomates - yes",
+  "auto": true,
+  "contexts": [
+    "molhoricota-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "molhoricota.molhoricota-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Excelente! Então faça um molho caseiro de tomate com manjericão para não sair da dieta. Finalize com parmesão ralado"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

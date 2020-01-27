@@ -1,0 +1,110 @@
+[
+  {
+    "id": "13e7ff80-54f8-4039-b631-56b6b22c4780",
+    "data": [
+      {
+        "text": "discordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e1db2edd-277c-47b9-9f6f-345f2820b82e",
+    "data": [
+      {
+        "text": "definitivamente não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dcf37ceb-8197-4d58-869b-2af34ceeea87",
+    "data": [
+      {
+        "text": "não obrigado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "49a5e68d-b62d-4af5-8c5b-cf9ee8aead1d",
+    "data": [
+      {
+        "text": "acho que não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bbffbda-fb11-404c-8de4-013d792eb1dc",
+    "data": [
+      {
+        "text": "não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "63875c34-99bc-458a-88bd-ee90ccc5449e",
+    "data": [
+      {
+        "text": "não tenho interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80658419-4341-4a41-9426-ffb92d8abcb7",
+    "data": [
+      {
+        "text": "não quero isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0c47987-dc86-4c84-9259-df7b81b341e5",
+    "data": [
+      {
+        "text": "não faça isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "98001a04-343b-409c-b796-aa076d506c9a",
+    "data": [
+      {
+        "text": "não mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

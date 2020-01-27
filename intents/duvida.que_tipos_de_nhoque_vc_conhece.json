@@ -1,0 +1,34 @@
+{
+  "id": "3238328d-e434-4a5a-aea1-b54e6b369665",
+  "name": "duvida.que_tipos_de_nhoque_vc_conhece",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Atualmente conheço os nhoques de banana da terra, manjericão, abóbora, aipim, beterraba, batata, ricota, batata baroa e batata doce",
+            "Meu conhecimento é sobre os nhoques de banana da terra, manjericão, abóbora, aipim, beterraba, batata, ricota, batata baroa e batata doce"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

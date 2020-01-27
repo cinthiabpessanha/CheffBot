@@ -1,0 +1,92 @@
+[
+  {
+    "id": "27bd4767-d6ae-4c82-b15b-b9dc51dd929d",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de banana da terra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9e915e5-b0bf-4477-acd0-fc68515d56cd",
+    "data": [
+      {
+        "text": "Nhoque de banana da terra combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9941aa1c-4ef3-4288-aaa5-f5b42a8cdc8f",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de banana da terra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0367ee5-503d-449c-876c-45008a95e1cd",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de banana da terra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58af3ca1-a4f5-4484-8ee7-c67031d89409",
+    "data": [
+      {
+        "text": "Molho para banana da terra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b121682e-0949-423b-8be3-8922bd8c8037",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de banana da terra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

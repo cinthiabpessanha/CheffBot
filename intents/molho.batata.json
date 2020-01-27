@@ -1,0 +1,54 @@
+{
+  "id": "4c5d13d0-c07a-4515-ac5e-fcc0169a4cbf",
+  "name": "molho.batata",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "molhobatata-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "48473ad4-6853-4200-8169-5d13cdd80a41",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Para o mais tradicional nhoque, vai de molho bolonhesa. Vai ter sabor de casa de vó ;)",
+            "Para dar um toque moderno ao tradicional nhoque de batata inglesa, que tal um molho de queijo grana padano e um leve toque de noz moscada? Vai ficar show",
+            "Um molho de 4 queijos com bacon vai trazer muita sofisticação ao mais tradicional sabor de nhoque"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

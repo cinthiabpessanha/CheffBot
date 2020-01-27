@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f3194a24-cd65-491c-9615-dd0da35263a5",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata inglesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4de3a83e-0951-4167-941b-a83c80396de8",
+    "data": [
+      {
+        "text": "Qual molho combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38a0cee2-2142-4e7b-8704-c6906fedc585",
+    "data": [
+      {
+        "text": "Molho para batata inglesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d0ddf1a-3070-447e-ac5c-1f841b769956",
+    "data": [
+      {
+        "text": "Qual molho você sugere para nhoque de batata?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d79216b7-07b7-4694-ae0c-ccf5e82b9276",
+    "data": [
+      {
+        "text": "Sugestão de molho para nhoque de batata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7f2d3f1-b314-4c97-8e5f-dc57cd2e1c25",
+    "data": [
+      {
+        "text": "Nhoque de batata combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43df80a4-586e-4caf-b49d-46b58d3d0dc1",
+    "data": [
+      {
+        "text": "O que combina com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " nhoque de batata?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

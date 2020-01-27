@@ -1,0 +1,42 @@
+{
+  "id": "4207299a-81ab-45c8-ad26-7a0876b50d31",
+  "parentId": "850977ee-e5ac-4901-a4fd-22322b3cb1ff",
+  "rootParentId": "850977ee-e5ac-4901-a4fd-22322b3cb1ff",
+  "name": "molho.ricota-curte-tomates - no",
+  "auto": true,
+  "contexts": [
+    "molhoricota-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "molhoricota.molhoricota-no",
+      "affectedContexts": [
+        {
+          "name": "context_molho_ricota_receita_manteiga",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Ok... sabe que ricota também vai muito bem com um molho de manteiga? Ao final do preparo, adicione umas folhas de sálvia ao molho de manteiga para adicionar um aroma especial a esse prato cheio de personalidade e sofisticação"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

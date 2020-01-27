@@ -1,0 +1,94 @@
+[
+  {
+    "id": "e9e8c740-7422-41c4-9878-0732cebd6f4e",
+    "data": [
+      {
+        "text": "Recomenda qual receita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e424cb7f-d148-40f2-be47-3306947de8b6",
+    "data": [
+      {
+        "text": "Quero a receita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2812e1c2-e46d-4f82-9123-96e32c3ec1a4",
+    "data": [
+      {
+        "text": "Receita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f07ac0c1-1334-4716-8e9d-61826b84195b",
+    "data": [
+      {
+        "text": "Você conhece alguma receita desse molho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d385e046-91ae-4720-9286-fe27edd55fbf",
+    "data": [
+      {
+        "text": "Onde encontro ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " receita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f026b569-4639-4ac1-bec3-d8483537c214",
+    "data": [
+      {
+        "text": "Me indica ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " receita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "6aeefc49-32f3-4c92-944a-637e3c0f4fc5",
+  "name": "duvida.sugestao_nhoque",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Sugiro ricota, batata doce e banana da terra, meus preferidos ;)",
+            "Os nhoques que mais gosto são banana da terra e ricota, por isso os recomendo",
+            "Sempre sugiro aos meus clientes o nhoque de ricota, que está entre os meus TOP 3 melhores nhoques"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

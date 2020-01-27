@@ -1,0 +1,49 @@
+{
+  "id": "a79fca30-a42f-415e-b3a3-c5d848a6fc60",
+  "name": "molho.abobora",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d0dac2c-f41a-4b48-acd3-4a0035327f0d",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Abóbora e carne seca é tipo romeu e julieta...juntos, formam o casal perfeito! Eu adicionaria um molho de tomate e pronto. Já pode ir para a mesa",
+            "Sabe que um pesto de rúcula com queijo pode surpreender? Se vc não curte rúcula, então vai no tradicional carne seca e molho de tomate que também fica ótimo!",
+            "Pega o queijo que estiver sobrando na geladeira e junta com um pesto de rúcula. Sucesso garantido",
+            "Eu faria um molho de tomate com carne seca. E ralaria umas lascas de parmesão para finalizar. Voilá!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
